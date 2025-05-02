@@ -12,7 +12,7 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavyaaa55&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
         </p>
     </td>
     <td>
@@ -75,7 +75,7 @@
       <img align="middle" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png">
       </a> &nbsp;&nbsp; -->
       <a href="https://www.linkedin.com/in/kavyanjali-gavate-7a7900315/">
-      <img align="middle" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png">
+      <img align="middle" alt="Kavyanjali Gavate | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png">
       </a> &nbsp;&nbsp;
       <br>
     </div>
