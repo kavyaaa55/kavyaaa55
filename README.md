@@ -1,12 +1,12 @@
   <h3 id="hi-there">Hi there 👋</h3>
 <h2 id="im-taban-soleymani">I’m Kavyanjali Gavate</h2>
-<p><img src="https://komarev.com/ghpvc/?username=your-taabann&amp;color=0069b4" alt=""></p>
+<!-- <p><img src="https://komarev.com/ghpvc/?username=your-taabann&amp;color=0069b4" alt=""></p> -->
 <table>
   <tbody><tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; Btech Student<a href="https://ut.ac.ir/en">UT</a></li>
+        <li>🎓 &nbsp; Btech Student<a href="https://ut.ac.ir/en"></a></li>
         <li>👑 &nbsp; MERN stack developer</li>
         <li>🤔 &nbsp; Interested in Full stack developement and Compitative Programming</li>
        </ul>
@@ -17,7 +17,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png">
+        <img height="360em" src="https://static.vecteezy.com/system/resources/previews/003/815/991/non_2x/female-programmer-doing-software-coding-free-vector.jpg">
      </p>
     </td>
   </tr>
@@ -83,5 +83,5 @@
   </tr>
 </tbody></table>
 <hr>
-<p>Credit: <a href="https://github.com/Taabannn">Taabannn</a></p>
-<p>Last Edited on: 07/08/2022</p> 
+<!-- <p>Credit: <a href="https://github.com/Taabannn">Taabannn</a></p> -->
+
