@@ -8,7 +8,7 @@
        <ul>
         <li>🎓 &nbsp; Btech Student<a href="https://ut.ac.ir/en"></a></li>
         <li>👑 &nbsp; MERN stack developer</li>
-        <li>🤔 &nbsp; Interested in Full stack developement and Compitative Programming</li>
+        <li>🤔 &nbsp; Interested in Full stack developement and Competitive Programming</li>
        </ul>
        <p align="center">
          <br>
