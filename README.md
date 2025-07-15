@@ -15,6 +15,11 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavyaaa55&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
         </p>
     </td>
+     <td>
+     <p align="center">
+        <img height="360em" src="https://static.vecteezy.com/system/resources/previews/003/815/991/non_2x/female-programmer-doing-software-coding-free-vector.jpg">
+     </p>
+    </td>
   </tr>
   <tr>
    <td>
@@ -46,7 +51,7 @@
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&amp;logo=gitlab">
      <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&amp;logo=mysql">
-<!--      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&amp;logo=sqlite"> -->
+     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&amp;logo=sqlite">
 <!--      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&amp;logo=intellijidea">
      <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&amp;logo=pycharm">
